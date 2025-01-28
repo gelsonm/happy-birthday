@@ -1,8 +1,8 @@
 {
-  "greeting": "Hemlo",
-  "name": "Anushka",
-  "greetingText": "Alias Parnika/Alex ke mom!",
-  "wishText": "May your code be free of bugs! ;)",
+  "greeting": "Hello",
+  "name": "Emelda",
+  "greetingText": "Chanchali",
+  "wishText": "Congratulations on completing 29 revolutions around the sun! ;)",
   "imagePath": "img/parnika_1.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeeeaaahhhhhhhh!",
@@ -12,12 +12,12 @@
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
-  "text5Content": "You are a special friend",
+  "text5Content": "You are a very special person",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "Hope you liked it! Happy Birthday! It's your day, enjoy!.",
-  "replayText": "Or click here, if you want to repeat hemlo.",
+  "replayText": "Or click here, if you want to repeat.",
   "outroSmiley": ":)"
 }
